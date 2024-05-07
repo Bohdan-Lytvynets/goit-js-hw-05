@@ -5,7 +5,7 @@ const getUserNames = (users) => {
 
 
 console.log(
-getUserNames([
+getUserNames)([
 {
   name: "Moore Hensley",
   email: "moorehensley@indexia.com",
